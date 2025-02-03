@@ -1,4 +1,4 @@
 day 1 git file ,hello.py ,readme.md
-day 2 
+day 2 git commands
 day 3 bar_graph.py
 day 4 pie.py ,plot.py , python.py
